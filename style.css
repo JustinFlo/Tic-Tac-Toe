@@ -6,11 +6,13 @@
     line-height: 75px;
     font-size: 50px;
     cursor: pointer;
+    background-color: darkcyan;
 }
 
 #gameContainer{
     font-family: "Permanent Marker", cursive;
     text-align: center;
+    color: cornflowerblue;
 }
 
 #cellContainer{
@@ -18,4 +20,5 @@
     grid-template-columns: repeat(3, auto);
     width: 225px;
     margin: auto;
+    color: aqua;
 }
